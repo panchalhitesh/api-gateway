@@ -11,6 +11,10 @@ It's meant to be used as a local environment development API Gateway.
 - Optional authentication for specific services
 - Detailed logging using the tracing crate
 
+  ## Future Features
+
+- Store Services key at Redis Server.
+
 ## Requirements
 
 - Rust 1.53 or later
