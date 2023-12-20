@@ -13,7 +13,9 @@ It's meant to be used as a local environment development API Gateway.
 
   ## Future Features
 
-- Store Services key at Redis Server.
+- Store Services at Redis Server.
+- Embed Redis
+
 
 ## Requirements
 
